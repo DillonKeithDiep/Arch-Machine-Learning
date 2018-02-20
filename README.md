@@ -11,6 +11,9 @@ This repository is a collection of notebooks and code implementations of classic
 - Keras
 I suggest installing Anaconda for dependency management
 
+### Getting Started
+$ jupyter notebook
+
 ### Sources
 - Datacamp
 - Udacity
